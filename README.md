@@ -1,2 +1,2 @@
-# Zen-s-Java-PvP
+# Zens-Java-PvP
 Accurate Java PvP
